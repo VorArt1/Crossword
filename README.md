@@ -32,6 +32,3 @@ dotnet run
  - .NET SDK (версия 6.0 или выше)
  - Windows / Linux / macOS
 
-# Автор
-VorArt1 (Egor Vorobev)
-Email: egor.vorob1@mail.ru
