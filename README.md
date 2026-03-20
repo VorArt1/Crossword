@@ -5,7 +5,6 @@
    ```bash
    git clone https://github.com/VorArt1/Crossword.git
    cd Crossword
-   Откройте решение в Visual Studio или любой другой IDE, поддерживающей .NET:
 
 2. Откройте решение в Visual Studio или любой другой IDE, поддерживающей .NET:
 start Crossword.sln
@@ -13,7 +12,7 @@ start Crossword.sln
 3. Соберите проект:
 dotnet build
 
-#Использование
+# Использование
 1. Запустите приложение:
 dotnet run
 
