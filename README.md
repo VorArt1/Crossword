@@ -26,13 +26,12 @@ dotnet run
 
  1. Program.cs : Главный файл приложения, точка входа
  2. Crossword.csproj : Файл проекта .NET
- 3. bin/ : Директория с компилированными файлами (игнорируется Git)
- 4. obj/ : Директория с временными файлами сборки (игнорируется Git)
 
-#Требования
+
+# Требования
  - .NET SDK (версия 6.0 или выше)
  - Windows / Linux / macOS
 
-#Автор
+# Автор
 VorArt1 (Egor Vorobev)
 Email: egor.vorob1@mail.ru
